@@ -12,7 +12,7 @@ def divide(a, b):
         return(a / b)
     return("Division by zero error")
 while True:
-    print("=========welcome to basic calculator=====")
+    print("==welcome to basic calculator==")
     print("Select operation to perform:")
     print("1. Addition")
     print("2. Subtraction")
@@ -88,4 +88,5 @@ while True:
 
 
     
+
 
